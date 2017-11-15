@@ -1,1 +1,25 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Test\n"
+"Language: en\n"
+
+#: 
+msgid "Loading rule"
+msgstr ""
+
+#: 
+msgid "Loading rules"
+msgstr ""
+
+#: 
+msgid "Loading view..."
+msgstr ""
+
+#: 
+msgid "No contact defined."
+msgstr ""
 
